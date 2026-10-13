@@ -1,0 +1,6 @@
+{
+  "name": "LEARNBACK AI",
+  "description": "An AI-powered voice learning platform with student teach-back analysis, misconception detection, personalized remediation, and teacher mentor intervention.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
